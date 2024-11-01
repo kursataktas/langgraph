@@ -4,6 +4,7 @@
 [![Downloads](https://static.pepy.tech/badge/langgraph/month)](https://pepy.tech/project/langgraph)
 [![Open Issues](https://img.shields.io/github/issues-raw/langchain-ai/langgraph)](https://github.com/langchain-ai/langgraph/issues)
 [![Docs](https://img.shields.io/badge/docs-latest-blue)](https://langchain-ai.github.io/langgraph/)
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20LangGraph%20Guru-006BFF)](https://gurubase.io/g/langgraph)
 
 ⚡ Building language agents as graphs ⚡
 
